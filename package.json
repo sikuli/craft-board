@@ -1,6 +1,6 @@
 {
   "name": "craft-board",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Board (flat, hold stuff on top)",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/sikuli/craft-board/issues"
   },
-  "homepage": "https://github.com/sikuli/craft-board"
+  "homepage": "https://github.com/sikuli/craft-board",
+  "dependencies": {
+    "craft-module": "^1.0.2"
+  }
 }
