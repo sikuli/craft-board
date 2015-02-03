@@ -1,0 +1,22 @@
+{
+  "name": "craft-board",
+  "version": "1.0.0",
+  "description": "Board (flat, hold stuff on top)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sikuli/craft-board"
+  },
+  "keywords": [
+    "craftml"
+  ],
+  "author": "Tom Yeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sikuli/craft-board/issues"
+  },
+  "homepage": "https://github.com/sikuli/craft-board"
+}
