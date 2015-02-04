@@ -1,6 +1,6 @@
 {
   "name": "craft-board",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Board (flat, hold stuff on top)",
   "main": "index.js",
   "scripts": {
@@ -15,11 +15,11 @@
   ],
   "author": "Tom Yeh",
   "license": "MIT",
+  "files": [
+    "index.xml"
+  ],
   "bugs": {
     "url": "https://github.com/sikuli/craft-board/issues"
   },
-  "homepage": "https://github.com/sikuli/craft-board",
-  "dependencies": {
-    "craft-module": "^1.0.2"
-  }
+  "homepage": "https://github.com/sikuli/craft-board"
 }
