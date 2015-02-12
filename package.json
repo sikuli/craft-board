@@ -1,6 +1,6 @@
 {
   "name": "craft-board",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Board (flat, hold stuff on top)",
   "main": "index.js",
   "scripts": {
